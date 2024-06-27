@@ -4,7 +4,7 @@ Deploy multimodal model from Vertex AI that takes pdf, image and sound file and 
 Required:
 `pip install --upgrade google-cloud-aiplatform`
 
-ADP:
+ADC errors:
 Follow the instructions on 
 
 [https://cloud.google.com/docs/authentication/provide-credentials-adc#local-dev],
