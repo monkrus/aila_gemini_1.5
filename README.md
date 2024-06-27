@@ -6,5 +6,7 @@ Required:
 
 ADP:
 Follow the instructions on 
+
 [https://cloud.google.com/docs/authentication/provide-credentials-adc#local-dev],
+
 [https://cloud.google.com/docs/authentication/troubleshoot-adc#user-creds-client-based]
