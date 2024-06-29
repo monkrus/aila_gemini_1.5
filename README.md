@@ -1,5 +1,6 @@
 # aila_vertex_ai
-Deploy multimodal model from Vertex AI that takes pdf, image and sound file and produces an output in the form of chatbot.
+Multimodal model from Vertex AI that takes pdf, image and sound file and produces an output in the form of chatbot. 
+Building an app using Google AI studio.
 
 Required:
 `pip install --upgrade google-cloud-aiplatform`
